@@ -1,0 +1,9 @@
+// Solution: Employees Earning More Than Their Managers
+// Runtime: 221 ms | Memory: 0B
+
+-- Write your PostgreSQL query statement below
+SELECT e.name AS Employee
+From Employee e
+INNER JOIN Employee AS manager
+ON e.managerId = manager.id
+WHERE e.salary >  manager.salary
