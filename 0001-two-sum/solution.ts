@@ -1,5 +1,5 @@
-// Solution for: Two Sum
-// Time: 4 ms (52.52%) | Memory: 57.7 MB (23.17%)
+// Solution: Two Sum
+// Runtime: 4 ms | Memory: 56.3 MB
 
 function twoSum(nums: number[], target: number): number[] {
     const map = new Map<number, number>();
