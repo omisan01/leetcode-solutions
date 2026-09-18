@@ -1,0 +1,11 @@
+// Solution: Combine Two Tables
+// Runtime: 311 ms | Memory: 0B
+
+-- Write your PostgreSQL query statement below
+SELECT
+p.firstName,
+p.lastName,
+a.city,
+a.state
+FROM Person p
+LEFT JOIN Address a ON p.personID = a.personID
