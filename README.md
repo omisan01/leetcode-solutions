@@ -3,8 +3,8 @@
 Synced automatically using [LeetGit](https://github.com).
 
 ### Progress Summary
-- **Total Solved:** 169
-- **Easy:** 86 | **Medium:** 74 | **Hard:** 9
+- **Total Solved:** 171
+- **Easy:** 87 | **Medium:** 75 | **Hard:** 9
 
 ---
 
@@ -181,3 +181,5 @@ Synced automatically using [LeetGit](https://github.com).
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | [javascript](./3975-filter-occupied-intervals/solution.js) | `Medium` |
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | [typescript](./3979-maximum-valid-pair-sum/solution.ts) | `Medium` |
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | [typescript](./3982-sum-of-integers-with-maximum-digit-range/solution.ts) | `Easy` |
+| 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [typescript](./4056-number-of-intersecting-interval-pairs-i/solution.ts) | `Easy` |
+| 4057 | [Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/) | [typescript](./4057-number-of-intersecting-interval-pairs-ii/solution.ts) | `Medium` |
