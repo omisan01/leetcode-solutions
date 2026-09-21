@@ -3,8 +3,8 @@
 Synced automatically using [LeetGit](https://github.com).
 
 ### Progress Summary
-- **Total Solved:** 171
-- **Easy:** 87 | **Medium:** 75 | **Hard:** 9
+- **Total Solved:** 172
+- **Easy:** 88 | **Medium:** 75 | **Hard:** 9
 
 ---
 
@@ -80,6 +80,7 @@ Synced automatically using [LeetGit](https://github.com).
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [typescript](./0347-top-k-frequent-elements/solution.ts) | `Medium` |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [typescript](./0374-guess-number-higher-or-lower/solution.ts) | `Easy` |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [typescript](./0394-decode-string/solution.ts) | `Medium` |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [typescript](./0404-sum-of-left-leaves/solution.ts) | `Easy` |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [typescript](./0410-split-array-largest-sum/solution.ts) | `Hard` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [typescript](./0424-longest-repeating-character-replacement/solution.ts) | `Medium` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [javascript](./0485-max-consecutive-ones/solution.js), [typescript](./0485-max-consecutive-ones/solution.ts) | `Easy` |
