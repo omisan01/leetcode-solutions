@@ -3,8 +3,8 @@
 Synced automatically using [LeetGit](https://github.com).
 
 ### Progress Summary
-- **Total Solved:** 172
-- **Easy:** 88 | **Medium:** 75 | **Hard:** 9
+- **Total Solved:** 173
+- **Easy:** 88 | **Medium:** 76 | **Hard:** 9
 
 ---
 
@@ -70,6 +70,7 @@ Synced automatically using [LeetGit](https://github.com).
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [typescript](./0219-contains-duplicate-ii/solution.ts) | `Easy` |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [typescript](./0225-implement-stack-using-queues/solution.ts) | `Easy` |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [javascript](./0226-invert-binary-tree/solution.js) | `Easy` |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [typescript](./0229-majority-element-ii/solution.ts) | `Medium` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [typescript](./0232-implement-queue-using-stacks/solution.ts) | `Easy` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [typescript](./0238-product-of-array-except-self/solution.ts) | `Medium` |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [typescript](./0239-sliding-window-maximum/solution.ts) | `Hard` |
