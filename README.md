@@ -3,8 +3,8 @@
 Synced automatically using [LeetGit](https://github.com).
 
 ### Progress Summary
-- **Total Solved:** 173
-- **Easy:** 88 | **Medium:** 76 | **Hard:** 9
+- **Total Solved:** 174
+- **Easy:** 88 | **Medium:** 77 | **Hard:** 9
 
 ---
 
@@ -56,6 +56,7 @@ Synced automatically using [LeetGit](https://github.com).
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [javascript](./0145-binary-tree-postorder-traversal/solution.js) | `Easy` |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [typescript](./0146-lru-cache/solution.ts) | `Medium` |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [typescript](./0150-evaluate-reverse-polish-notation/solution.ts) | `Medium` |
+| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [typescript](./0152-maximum-product-subarray/solution.ts) | `Medium` |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [typescript](./0153-find-minimum-in-rotated-sorted-array/solution.ts) | `Medium` |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [typescript](./0155-min-stack/solution.ts) | `Medium` |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [typescript](./0167-two-sum-ii-input-array-is-sorted/solution.ts) | `Medium` |
