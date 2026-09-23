@@ -3,8 +3,8 @@
 Synced automatically using [LeetGit](https://github.com).
 
 ### Progress Summary
-- **Total Solved:** 174
-- **Easy:** 88 | **Medium:** 77 | **Hard:** 9
+- **Total Solved:** 175
+- **Easy:** 88 | **Medium:** 78 | **Hard:** 9
 
 ---
 
@@ -27,6 +27,7 @@ Synced automatically using [LeetGit](https://github.com).
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [typescript](./0021-merge-two-sorted-lists/solution.ts) | `Easy` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [typescript](./0026-remove-duplicates-from-sorted-array/solution.ts) | `Easy` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [typescript](./0027-remove-element/solution.ts) | `Easy` |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [typescript](./0031-next-permutation/solution.ts) | `Medium` |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [typescript](./0033-search-in-rotated-sorted-array/solution.ts) | `Medium` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [typescript](./0035-search-insert-position/solution.ts) | `Easy` |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [typescript](./0042-trapping-rain-water/solution.ts) | `Hard` |
