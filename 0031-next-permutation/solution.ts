@@ -1,5 +1,5 @@
 // Solution: Next Permutation
-// Time: 1 ms (26.18%) | Memory: 58.1 MB (26.61%)
+// Time: 0 ms (100.00%) | Memory: 57.6 MB (50.64%)
 
 /**
  Do not return anything, modify nums in-place instead.
