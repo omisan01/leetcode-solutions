@@ -1,11 +1,10 @@
 // Solution: Maximum Product Subarray
-// Time: 6 ms (20.13%) | Memory: 58.3 MB (30.35%)
+// Time: 1 ms (85.62%) | Memory: 58.1 MB (33.55%)
 
 function maxProduct(nums: number[]): number {
     let currMax = 1;
     let currMin = 1;
     let res = Math.max(...nums)
-    if(nums.length === 1) return nums[0]
     for(let num of nums){
         if(num === 0){
             currMax = 1;
