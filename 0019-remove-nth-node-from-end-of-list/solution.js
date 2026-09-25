@@ -1,5 +1,5 @@
 // Solution: Remove Nth Node From End of List
-// Time: 0 ms (100.00%) | Memory: 53.9 MB (78.41%)
+// Time: 0 ms (100.00%) | Memory: 54.4 MB (51.67%)
 
 /**
  * Definition for singly-linked list.
@@ -15,29 +15,22 @@
  */
 var removeNthFromEnd = function(head, n) {
     if(!head) return [];
-    let dummy = head;
+    let dummy = new ListNode(0, head);
+    let left = dummy;
+    let right = head;
 
-    let len = 0;
-    while(dummy !== null){
-        len++;
-        dummy = dummy.next
+    while(n > 0){
+        right = right.next;
+        n--
     }
 
-    const indexToRemove = len - n;
+    while(right !== null){
+        right = right.next;
+        left = left.next
+    }
 
-    if(indexToRemove === 0) return head.next;
-    dummy = head;
-    
-    for(let i = 0; i < len - 1; i++){
-        if(i + 1 === indexToRemove){
-            dummy.next = dummy.next.next
-            break
-        }
+    left.next = left.next.next
 
-        dummy = dummy.next
-
-    } 
-
-    return head
+    return dummy.next
     
 };
