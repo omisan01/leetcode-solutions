@@ -22,7 +22,7 @@ Synced automatically using [LeetGit](https://github.com).
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [typescript](./0014-longest-common-prefix/solution.ts) | `Easy` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [typescript](./0015-3sum/solution.ts) | `Medium` |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [typescript](./0018-4sum/solution.ts) | `Medium` |
-| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [typescript](./0019-remove-nth-node-from-end-of-list/solution.ts) | `Medium` |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [javascript](./0019-remove-nth-node-from-end-of-list/solution.js), [typescript](./0019-remove-nth-node-from-end-of-list/solution.ts) | `Medium` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [typescript](./0020-valid-parentheses/solution.ts) | `Easy` |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [typescript](./0021-merge-two-sorted-lists/solution.ts) | `Easy` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [typescript](./0026-remove-duplicates-from-sorted-array/solution.ts) | `Easy` |
